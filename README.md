@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IvanIgn
+- 👋 Hi, I’m Ivan.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning Java for Android Development.
 - 💞️ I’m looking to collaborate on companies that are dealing with mobile app development.
