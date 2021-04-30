@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ivan.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning Java for Android Development.
-- 💞️ I’m looking to collaborate on companies that are dealing with mobile app development.
+- 💞️ I’m looking to collaborate on companies that are dealing with mobile app development QA testing.
 - 📫 You can reach me by my email: ivanign95@outlook.com
 
 <!---
