@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ivan.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Java for Android Development and improving my skills in Swift for iOS.
+- 🌱 I'm currently learning Futter/Dart for cross-platform app development and also trying to improve my Android and iOS app development skills.
 - 💞️ I’m looking to collaborate on companies that are dealing with mobile app development and QA testing.
 - 📫 You can reach me by my email: ivanign95@outlook.com
 
